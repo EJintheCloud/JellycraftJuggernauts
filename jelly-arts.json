@@ -1,0 +1,126 @@
+{
+  "jelly-arts": [
+    {
+      "id": "JA001",
+      "name": "Arcane Blast",
+      "target": "Ranged",
+      "damage": 1,
+      "status-effect": "Stun",
+      "status-X-value": null,
+      "tier": 0,
+      "cost": 0,
+      "jellymancy": ["JA002", "JA003"]
+    },
+    {
+      "id": "JA002",
+      "name": "Fireball",
+      "target": "Ranged",
+      "damage": 2,
+      "status-effect": "Burn",
+      "status-X-value": 1,
+      "tier": 1,
+      "cost": 1,
+      "jellymancy": ["JA010"]
+    },
+    {
+      "id": "JA003",
+      "name": "Lightning",
+      "target": "Ranged",
+      "damage": 2,
+      "status-effect": "Stun",
+      "status-X-value": null,
+      "tier": 1,
+      "cost": 1,
+      "jellymancy": ["JA011"]
+    },
+    {
+      "id": "JA016",
+      "name": "Absorb",
+      "target": "Touch",
+      "damage": 2,
+      "status-effect": null,
+      "lifesteal": 1,
+      "tier": 1,
+      "cost": 1,
+      "jellymancy": ["JA017"]
+    },
+    {
+      "id": "JA017",
+      "name": "Devour",
+      "target": "Touch",
+      "damage": 3,
+      "status-effect": "Stun",
+      "status-X-value": null,
+      "lifesteal": 2,
+      "tier": 2,
+      "cost": 2,
+      "jellymancy": []
+    },
+    {
+      "id": "JA004",
+      "name": "Jelly Whip",
+      "target": "Touch",
+      "damage": 1,
+      "status-effect": "Restrain",
+      "status-X-value": null,
+      "tier": 0,
+      "cost": 0,
+      "jellymancy": ["JA005", "JA006"]
+    },
+    {
+      "id": "JA005",
+      "name": "Constricting Tendrils",
+      "target": "Touch",
+      "damage": 1,
+      "status-effect": "Restrain",
+      "status-X-value": null,
+      "tier": 1,
+      "cost": 1,
+      "jellymancy": []
+    },
+    {
+      "id": "JA006",
+      "name": "Toxic Lash",
+      "target": "Touch",
+      "damage": 1,
+      "status-effect": "Poison",
+      "status-X-value": 1,
+      "tier": 1,
+      "cost": 1,
+      "jellymancy": []
+    },
+    {
+      "id": "JA007",
+      "name": "Goo Surge",
+      "target": "Ambient",
+      "damage": 0,
+      "status-effect": "Gooify",
+      "status-X-value": 1,
+      "tier": 0,
+      "cost": 0,
+      "jellymancy": ["JA008", "JA009"]
+    },
+    {
+      "id": "JA008",
+      "name": "Caustic Ooze",
+      "target": "Ambient",
+      "damage": 1,
+      "status-effect": "Weaken",
+      "status-X-value": 1,
+      "tier": 1,
+      "cost": 1,
+      "jellymancy": []
+    },
+    {
+      "id": "JA009",
+      "name": "Entangling Slime",
+      "target": "Ambient",
+      "damage": 0,
+      "status-effect": "Restrain",
+      "status-X-value": null,
+      "tier": 1,
+      "cost": 1,
+      "jellymancy": []
+    }
+  ]
+}
