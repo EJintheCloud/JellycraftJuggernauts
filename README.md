@@ -1,7 +1,7 @@
 # Jellycraft Juggernauts
 
 ## What is Jellycraft Juggernauts?
-Jellycraft Juggernauts is a **competitive creature-crafting trading card game (TCG)** that allows players to create, evolve, and battle customizable **Jellycraft Juggernauts**. Players use **Jelly Parts, Jelly Jems, and Trainer Commands** to shape their unique Juggernaut, strategically balancing **power, mobility, and resilience** in battle. With a focus on **player creativity and emergent strategy**, the game encourages building Juggernauts that feel like personalized, living creations.
+Jellycraft Juggernauts is an open-source **competitive creature-crafting trading card game (TCG)** that allows players to create, evolve, and battle customizable **Jellycraft Juggernauts**. Players use **Jelly Parts, Jelly Jems, and Trainer Commands** to shape their unique Juggernaut, strategically balancing **power, mobility, and resilience** in battle. With a focus on **player creativity and emergent strategy**, the game encourages building Juggernauts that feel like personalized, living creations.
 
 ## Why Was This Game Made?
 Jellycraft Juggernauts was designed to explore the intersection of **customization, competition, and collectibility** in a TCG format. It was built for players who love:
